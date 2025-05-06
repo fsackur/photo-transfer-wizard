@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=photo-transfer-wizard
+Exec=photo-transfer-wizard
+Icon=dev.supposedlysentient.PhotoTransferWizard
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

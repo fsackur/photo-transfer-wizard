@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/dev.supposedlysentient.PhotoTransferWizard.desktop.in
+data/dev.supposedlysentient.PhotoTransferWizard.metainfo.xml.in
+data/dev.supposedlysentient.PhotoTransferWizard.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
